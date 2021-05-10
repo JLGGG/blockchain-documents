@@ -13,3 +13,9 @@ The difficulty of work represents the degree of difficulty in calculating the no
 
 ### Reward
 The reward is the sum of the newly issued bitcoin and the transaction fee of the transaction included in the block. The new issuance of bitcoin is made by adding a transaction in which a certain amount of bitcoin is deposited into the miner's wallet when the miner initially constructs a block as the generation transaction of the block. Bitcoin starts at 50BTC. After that, each time 210k blocks are added to the blockchain, they experience a half-life. Transaction fees can be set autonomously by each transaction party. The transaction fee also acts as an input value in determining the priority in which transactions are added to the block.
+
+### Advantage
+The minimum price point is clearly set, and the biggest advantage is high security. A 51% attack, which are known as blockchain vulnerabilities, can be easily prevented. A 51% attack means a maliciou sattacker must have at least 51% computational power in order to succeed in their actions(for acheiving double-spending). However, in reality, obtaining more than 51% of the proof of work is very difficult to occur because it incurs astronomical costs.
+
+### Disadvantage
+As the difficulty of mining has increased, individual miners have reached a level where they cannot mine. In addition, the need for high-end equipment required for calculation has increased, and energy wasted due to excessive power consumption. The amount of electricity consumed in bitcoin mining was estimated to be about 48 terawatt hours per year. This is similar to the annual electricity of Singapore, beyond Peru and Hong Kong per year. This structure naturally emerged by corporate miners. In addition, the problem of concentration of mining rights arises due to their unity. In the end, this form seems to blur the decentralization, which is the essence of blockchain technology.
