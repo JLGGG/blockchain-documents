@@ -1,2 +1,6 @@
-Delegated Proof of Stake (DPoS) is a consensus algorithm in which cryptocurrency owners exercise voting rights in proportion to their respective stakes to select their representatives, and make decesions by consensus among these representatives. It is similar to a representative democracy system in which parliaments are formed by electing members as representatives of the people.   
+## Delegated Proof of Stake 
+
+### Overview
+Delegated Proof of Stake (DPoS) is a consensus algorithm in which cryptocurrency owners exercise voting rights in proportion to their respective stakes to select their representatives, and make decesions by consensus among these representatives. It is similar to a representative democracy system in which parliaments are formed by electing members as representatives of the people.  
+
 Delegated Proof of Stake is a consensus method in which nodes exercise their voting rights according to the amount of coins held to produce a kind of agent who will perform important decision-making powers. This was nicknamed "token democracy" because coin holders delegated their authority to elect representatives, similar to representative democracy. In the case of the delegated proof-of-stake method, transaction details only need to be approved by a few representative nodes, so the processing speed is much faster. Ethereum processes 20 TPS (Transaction per Second) on average, whereas EOS can process 3000 TPS, so the advantage in terms of speed has already been verified.

@@ -1,4 +1,4 @@
-### Proof of Stake
+## Proof of Stake
 Proof of Stake (PoS) is a consensus algorithm that gives decision-making authority in proportion to the percentage of stake held in the cryptocurrency. It is similar to having the right to make decisions in proportion to the shareholding ratio at the general shareholders' meeting. No mining process required.
 
 ### Advantage
