@@ -1,4 +1,4 @@
-This repository contains reviews relevant to the blockchain. After reading the main paper on the blockchain, I will freely summarize its contents on this repository. 
+This repository contains reviews relevant to the blockchain. After reading the relevant paper on the blockchain, I will freely summarize its contents on this repository. 
 If you want to ask or be interested in it, feel free to contact me.  
 
 The order of contents on blockchain:  
